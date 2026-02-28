@@ -27,7 +27,7 @@ Traditional trading strategies often rely on static price levels. Our approach i
 │   │   ├── forecasting/            # Prediction module
 │   │   │   ├── daily.py            # Daily-line forecasting logic
 │   │   │   ├── min.py              # Minute-line forecasting logic
-│   │   │   └── results/            # Saved prediction outputs
+│   │   │  ...
 │   │   |└── strategy/               # Trading strategy module
 │   │   |     ├── r-breaker.py        # Baseline R-breaker strategy
 │   │   ...   └── Advance.py          # DENet-driven (prediction-enhanced) strategy
